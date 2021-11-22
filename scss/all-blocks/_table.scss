@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+th , td {
+    border:  2px solid dimgray;
+    padding: 10px 20px;
+    text-align: center;
+}
